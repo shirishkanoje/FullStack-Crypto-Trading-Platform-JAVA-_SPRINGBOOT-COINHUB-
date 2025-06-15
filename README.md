@@ -8,7 +8,8 @@ A full-stack **Crypto Trading Web Application** developed using:
 - **Backend:** Spring Boot (Java), Maven
 - **Database:** MySQL
 - **API Integration:** CoinGecko API (free tier)
-- **Deployment:** (Add your deployment link if live)
+- **Deployment:** Frontend :- Vercel || Backend :-Railway
+                   
 
 ---
 
