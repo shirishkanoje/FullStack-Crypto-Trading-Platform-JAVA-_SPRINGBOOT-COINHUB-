@@ -24,25 +24,39 @@ A full-stack **Crypto Trading Web Application** developed using:
 
 
 ###SignUp
+
 ![signup](https://github.com/user-attachments/assets/0d8e09a8-540e-4bfa-a42a-bfc23c3bcee1)
+
 ### SignIn
+
 ![signin](https://github.com/user-attachments/assets/5561195d-a942-47e7-be34-74b923bfe1dc)
+
 ### Dashboard
+
 ![dashboard](https://github.com/user-attachments/assets/83659ef6-4c76-4430-ab3d-84a44d3acb4d)
+
 ### Prediction chart
+
 ![prediction chart](https://github.com/user-attachments/assets/11a19fcb-064a-47ad-b987-81772c0f8059)
+
 ### Sell
 ![sell](https://github.com/user-attachments/assets/fb0671a6-e1c3-42b6-af50-e044ef4c0199)
+
 ### Buy
 ![buy](https://github.com/user-attachments/assets/7535dd78-ecc3-4e9d-957d-a20a1af8369f)
+
 ### Watchlist
 ![watchlist](https://github.com/user-attachments/assets/69993806-981e-4983-aa7d-777f4ab1e2a2)
+
 ### Activity
 ![activity](https://github.com/user-attachments/assets/e7de362f-d48e-4597-9c2c-ffb81df2f764)
+
 ### Wallet
 ![wallet](https://github.com/user-attachments/assets/b84209d5-b253-4514-b366-58942a23f4d0)
+
 ### Withdrawal
 ![withdrawal history](https://github.com/user-attachments/assets/d579c6ae-b264-486c-84e0-dc3381ccff39)
+
 ### Profile
 ![profile](https://github.com/user-attachments/assets/839d3b8d-eeb1-4de4-86ff-cba6fae5cdce)
 
