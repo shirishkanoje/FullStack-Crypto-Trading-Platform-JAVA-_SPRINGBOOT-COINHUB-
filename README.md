@@ -22,12 +22,13 @@ A full-stack **Crypto Trading Web Application** developed using:
 
 ## 📸 Screenshots
 
-### Dashboard
-![dashboard](https://github.com/user-attachments/assets/83659ef6-4c76-4430-ab3d-84a44d3acb4d)
+
 ###SignUp
 ![signup](https://github.com/user-attachments/assets/0d8e09a8-540e-4bfa-a42a-bfc23c3bcee1)
 ### SignIn
 ![signin](https://github.com/user-attachments/assets/5561195d-a942-47e7-be34-74b923bfe1dc)
+### Dashboard
+![dashboard](https://github.com/user-attachments/assets/83659ef6-4c76-4430-ab3d-84a44d3acb4d)
 ### Watchlist
 ![watchlist](https://github.com/user-attachments/assets/69993806-981e-4983-aa7d-777f4ab1e2a2)
 ### Wallet
